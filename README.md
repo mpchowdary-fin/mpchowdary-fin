@@ -1,4 +1,4 @@
-# Hi, I'm Pavan 👋
+# Hi, I'm Chowdary 👋
 
 ### Aspiring AI Engineer | LLMs, RAG & Machine Learning
 
